@@ -3,7 +3,7 @@ layout: blog
 description: >-
   A static site built to give information about the various industries the
   client is involved in.
-projectName: IC3D Industries1
+projectName: IC3D Industries
 title: ic3d-industries
 year: '2016'
 role: Designer & Front-end Developer
