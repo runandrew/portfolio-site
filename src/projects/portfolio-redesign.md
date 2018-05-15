@@ -8,7 +8,7 @@ description: >-
 projectName: Portfolio Redesign
 title: portfolio-redesign
 year: '2017'
-role: Designer & Front-end Developer and CEO
+role: Designer & Front-end Developer
 date: '2017-01-28T23:31:54-05:00'
 techs:
   - HTML
